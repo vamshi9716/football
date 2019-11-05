@@ -1,5 +1,5 @@
 # football 
-Football is a Static HTML Web-Page Project designed for providing all the movies list and the upcoming Football players updates from the Football players.
+Football is a Static HTML Web-Page Project designed for providing all the Football players list and the upcoming Football players updates from the Football players.
 Football is developed using HTML & CSS.
 
 ## DEMO
